@@ -5,3 +5,8 @@ for i in range(n):
     print(i)-->o(n^2)
 for i in range(n):
   print(i)-->o(n)
+binarysearch-->o(logn)
+quick and merge sort-->o(n log n)
+best case-->o(1)(single operation)
+most used-->o(n)
+drop constants+dominants from notation
